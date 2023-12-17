@@ -1,3 +1,5 @@
+This branch preserves the v1 release of Improved Town Industries. It is compatible with the v1 release of [ITL Houses](https://github.com/erazortt/itl_houses/tree/v1) (aka Improved Town Layouts).
+
 # Improved Town Industries
 
 ![Trucks drop off Waste at a recycling center while passenger trains bring employees to work](/docs/recycling_center.PNG)
